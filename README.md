@@ -28,4 +28,4 @@ Documentation of my IT studies and hands-on lab work. Each course has its own fo
 - Technical documentation
 
 ## Contact
-Add your name, LinkedIn and email here.
+Ismail Isse.
